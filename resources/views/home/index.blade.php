@@ -4,7 +4,7 @@
     Stok video ve Footoğrafcılık Uygulaması
 @endsection
 
-@section('keywords','Fotograf','Video','Vektorler')
+@section('keywords','Fotograf','Video','Vektorler','Ikonlar')
    @section('content')
        <!-- our product -->
        <div class="product">
